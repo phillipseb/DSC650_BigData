@@ -1,0 +1,7 @@
+dog.jpg: [[('n02108422', 'bull_mastiff', 0.510823)]]
+orange.jpg: [[('n07747607', 'orange', 0.9723446)]]
+shoe.jpg: [[('n04120489', 'running_shoe', 0.4029376)]]
+banana.jpg: [[('n07753592', 'banana', 0.9999943)]]
+chair.jpg: [[('n03201208', 'dining_table', 0.361856)]]
+apple.jpg: [[('n07768694', 'pomegranate', 0.43825653)]]
+mug.jpg: [[('n07930864', 'cup', 0.7891268)]]
